@@ -21,7 +21,7 @@ lirik = [
     (MAGENTA, " ♪ teman datang ketika lagi butuh sajaa ♪", 0.8),
     (YELLOW,  " ♪ coba kalo lagi susah...", 0.7),
     (GREEN,   " ♪ mereka semua menghilaaaggg...", 0),
-    (RESET,"apakah spek standar seperti ini yang para   pemirsa inginkan😍",0),
+    (RESET,"apakah spek standar seperti ini yang para pemirsa inginkan😍",0),
     (RED,     " ♪ tanteee...", 2.4),
 ]
 
